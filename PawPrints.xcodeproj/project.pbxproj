@@ -1,0 +1,421 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */ = {isa = PBXBuildFile; fileRef = 1DDD58140DA1D0A300B32029 /* MainMenu.xib */; };
+		256AC3DA0F4B6AC300CF3369 /* PawPrintsAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 256AC3D90F4B6AC300CF3369 /* PawPrintsAppDelegate.m */; };
+		84F96FC812EEA14F009B07E4 /* Printer.m in Sources */ = {isa = PBXBuildFile; fileRef = 84F96FC712EEA14F009B07E4 /* Printer.m */; };
+		84F9701112EEAE1E009B07E4 /* Printers.plist in Resources */ = {isa = PBXBuildFile; fileRef = 84F9701012EEAE1E009B07E4 /* Printers.plist */; };
+		8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C165CFE840E0CC02AAC07 /* InfoPlist.strings */; };
+		8D11072D0486CEB800E47090 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 29B97316FDCFA39411CA2CEA /* main.m */; settings = {ATTRIBUTES = (); }; };
+		8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */; };
+		B42D706F1300479C006A7882 /* PreferenceController.m in Sources */ = {isa = PBXBuildFile; fileRef = B42D706E1300479C006A7882 /* PreferenceController.m */; };
+		B42D715713009BFD006A7882 /* PrinterData.m in Sources */ = {isa = PBXBuildFile; fileRef = B42D715613009BFD006A7882 /* PrinterData.m */; };
+		B474305912F8822C00566B59 /* Preferences.xib in Resources */ = {isa = PBXBuildFile; fileRef = B474305812F8822C00566B59 /* Preferences.xib */; };
+		B47F277813CF8484007CB68D /* Sparkle.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = B47F277713CF8484007CB68D /* Sparkle.framework */; };
+		B47F277F13CF8547007CB68D /* Sparkle.framework in CopyFiles */ = {isa = PBXBuildFile; fileRef = B47F277E13CF8547007CB68D /* Sparkle.framework */; };
+		B47F278113CF8902007CB68D /* PawPrints.icns in Resources */ = {isa = PBXBuildFile; fileRef = B47F278013CF8902007CB68D /* PawPrints.icns */; };
+		B4A2E24013D61FE9002A8678 /* dsa_pub.pem in Resources */ = {isa = PBXBuildFile; fileRef = B4A2E23F13D61FE9002A8678 /* dsa_pub.pem */; };
+		B4DE33F7130F2023005DCDA6 /* DBPrefsWindowController.m in Sources */ = {isa = PBXBuildFile; fileRef = B4DE33F6130F2023005DCDA6 /* DBPrefsWindowController.m */; };
+		B4DE33FB130F263A005DCDA6 /* General.png in Resources */ = {isa = PBXBuildFile; fileRef = B4DE33F9130F263A005DCDA6 /* General.png */; };
+		B4DE33FC130F263A005DCDA6 /* Updates.tiff in Resources */ = {isa = PBXBuildFile; fileRef = B4DE33FA130F263A005DCDA6 /* Updates.tiff */; };
+		B4DE342E130F2793005DCDA6 /* FavoritePrinter.png in Resources */ = {isa = PBXBuildFile; fileRef = B4DE342D130F2793005DCDA6 /* FavoritePrinter.png */; };
+		B4ED25BE13D78895007E7E65 /* buildnumber.xcconfig in Resources */ = {isa = PBXBuildFile; fileRef = B4ED25BD13D78895007E7E65 /* buildnumber.xcconfig */; };
+		B4EE96E91316D07F00E5E4AD /* PMLoginItemController.m in Sources */ = {isa = PBXBuildFile; fileRef = B4EE96E81316D07F00E5E4AD /* PMLoginItemController.m */; };
+		B4EE97BE1316E98200E5E4AD /* PMConstants.m in Sources */ = {isa = PBXBuildFile; fileRef = B4EE97651316D90A00E5E4AD /* PMConstants.m */; };
+		B4EFE8C512EF6E9800800D1B /* PrinterController.m in Sources */ = {isa = PBXBuildFile; fileRef = B4EFE8C412EF6E9800800D1B /* PrinterController.m */; };
+		B4F7C8E512EE2816001D1F59 /* printer.png in Resources */ = {isa = PBXBuildFile; fileRef = B4F7C8E412EE2816001D1F59 /* printer.png */; };
+		B4F7CA4512EE2FBB001D1F59 /* printer-white.png in Resources */ = {isa = PBXBuildFile; fileRef = B4F7CA4412EE2FBB001D1F59 /* printer-white.png */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXCopyFilesBuildPhase section */
+		84BB3D3312EE8285008A8E6D /* CopyFiles */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 10;
+			files = (
+				B47F277F13CF8547007CB68D /* Sparkle.framework in CopyFiles */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
+/* Begin PBXFileReference section */
+		089C165DFE840E0CC02AAC07 /* English */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.strings; name = English; path = English.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = /System/Library/Frameworks/Cocoa.framework; sourceTree = "<absolute>"; };
+		1DDD58150DA1D0A300B32029 /* English */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = English; path = English.lproj/MainMenu.xib; sourceTree = "<group>"; };
+		256AC3D80F4B6AC300CF3369 /* PawPrintsAppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PawPrintsAppDelegate.h; sourceTree = "<group>"; };
+		256AC3D90F4B6AC300CF3369 /* PawPrintsAppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PawPrintsAppDelegate.m; sourceTree = "<group>"; };
+		256AC3F00F4B6AF500CF3369 /* PawPrints_Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PawPrints_Prefix.pch; sourceTree = "<group>"; };
+		29B97316FDCFA39411CA2CEA /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		29B97324FDCFA39411CA2CEA /* AppKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AppKit.framework; path = /System/Library/Frameworks/AppKit.framework; sourceTree = "<absolute>"; };
+		29B97325FDCFA39411CA2CEA /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = /System/Library/Frameworks/Foundation.framework; sourceTree = "<absolute>"; };
+		84F96FC612EEA14F009B07E4 /* Printer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Printer.h; sourceTree = "<group>"; };
+		84F96FC712EEA14F009B07E4 /* Printer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Printer.m; sourceTree = "<group>"; };
+		84F9701012EEAE1E009B07E4 /* Printers.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Printers.plist; sourceTree = "<group>"; };
+		8D1107310486CEB800E47090 /* PawPrints-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "PawPrints-Info.plist"; sourceTree = "<group>"; };
+		8D1107320486CEB800E47090 /* PawPrints.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = PawPrints.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		B42D706D1300479C006A7882 /* PreferenceController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PreferenceController.h; sourceTree = "<group>"; };
+		B42D706E1300479C006A7882 /* PreferenceController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PreferenceController.m; sourceTree = "<group>"; };
+		B42D715513009BFD006A7882 /* PrinterData.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrinterData.h; sourceTree = "<group>"; };
+		B42D715613009BFD006A7882 /* PrinterData.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrinterData.m; sourceTree = "<group>"; };
+		B42D740713022757006A7882 /* Preferences.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Preferences.xib; sourceTree = "<group>"; };
+		B474305812F8822C00566B59 /* Preferences.xib */ = {isa = PBXFileReference; explicitFileType = file.xib; path = Preferences.xib; sourceTree = "<group>"; };
+		B47F277713CF8484007CB68D /* Sparkle.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Sparkle.framework; path = "External Dependencies/Sparkle.framework"; sourceTree = "<group>"; };
+		B47F277E13CF8547007CB68D /* Sparkle.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Sparkle.framework; path = "External Dependencies/Sparkle.framework"; sourceTree = "<group>"; };
+		B47F278013CF8902007CB68D /* PawPrints.icns */ = {isa = PBXFileReference; lastKnownFileType = image.icns; path = PawPrints.icns; sourceTree = "<group>"; };
+		B4A2E23F13D61FE9002A8678 /* dsa_pub.pem */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = dsa_pub.pem; sourceTree = "<group>"; };
+		B4DE33F5130F2023005DCDA6 /* DBPrefsWindowController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DBPrefsWindowController.h; sourceTree = "<group>"; };
+		B4DE33F6130F2023005DCDA6 /* DBPrefsWindowController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DBPrefsWindowController.m; sourceTree = "<group>"; };
+		B4DE33F9130F263A005DCDA6 /* General.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = General.png; sourceTree = "<group>"; };
+		B4DE33FA130F263A005DCDA6 /* Updates.tiff */ = {isa = PBXFileReference; lastKnownFileType = image.tiff; path = Updates.tiff; sourceTree = "<group>"; };
+		B4DE342D130F2793005DCDA6 /* FavoritePrinter.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = FavoritePrinter.png; sourceTree = "<group>"; };
+		B4ED25BD13D78895007E7E65 /* buildnumber.xcconfig */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xcconfig; path = buildnumber.xcconfig; sourceTree = "<group>"; };
+		B4EE96E71316D07F00E5E4AD /* PMLoginItemController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PMLoginItemController.h; sourceTree = "<group>"; };
+		B4EE96E81316D07F00E5E4AD /* PMLoginItemController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PMLoginItemController.m; sourceTree = "<group>"; };
+		B4EE97631316D8DB00E5E4AD /* PrinterManager.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrinterManager.pch; sourceTree = "<group>"; };
+		B4EE97641316D90A00E5E4AD /* PMConstants.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PMConstants.h; sourceTree = "<group>"; };
+		B4EE97651316D90A00E5E4AD /* PMConstants.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PMConstants.m; sourceTree = "<group>"; };
+		B4EFE8C312EF6E9800800D1B /* PrinterController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PrinterController.h; sourceTree = "<group>"; };
+		B4EFE8C412EF6E9800800D1B /* PrinterController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PrinterController.m; sourceTree = "<group>"; };
+		B4F7C8E412EE2816001D1F59 /* printer.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = printer.png; sourceTree = "<group>"; };
+		B4F7CA4412EE2FBB001D1F59 /* printer-white.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "printer-white.png"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8D11072E0486CEB800E47090 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072F0486CEB800E47090 /* Cocoa.framework in Frameworks */,
+				B47F277813CF8484007CB68D /* Sparkle.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		080E96DDFE201D6D7F000001 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				B42D72EA1301F538006A7882 /* Preferences */,
+				256AC3D80F4B6AC300CF3369 /* PawPrintsAppDelegate.h */,
+				256AC3D90F4B6AC300CF3369 /* PawPrintsAppDelegate.m */,
+				84F96FC612EEA14F009B07E4 /* Printer.h */,
+				84F96FC712EEA14F009B07E4 /* Printer.m */,
+				B4EFE8C312EF6E9800800D1B /* PrinterController.h */,
+				B4EFE8C412EF6E9800800D1B /* PrinterController.m */,
+				B42D715513009BFD006A7882 /* PrinterData.h */,
+				B42D715613009BFD006A7882 /* PrinterData.m */,
+				B4EE97631316D8DB00E5E4AD /* PrinterManager.pch */,
+				B4EE97641316D90A00E5E4AD /* PMConstants.h */,
+				B4EE97651316D90A00E5E4AD /* PMConstants.m */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				1058C7A1FEA54F0111CA2CBB /* Cocoa.framework */,
+			);
+			name = "Linked Frameworks";
+			sourceTree = "<group>";
+		};
+		1058C7A2FEA54F0111CA2CBB /* Other Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				29B97324FDCFA39411CA2CEA /* AppKit.framework */,
+				29B97325FDCFA39411CA2CEA /* Foundation.framework */,
+			);
+			name = "Other Frameworks";
+			sourceTree = "<group>";
+		};
+		19C28FACFE9D520D11CA2CBB /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8D1107320486CEB800E47090 /* PawPrints.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		29B97314FDCFA39411CA2CEA /* StatusMenuApp */ = {
+			isa = PBXGroup;
+			children = (
+				B47F277E13CF8547007CB68D /* Sparkle.framework */,
+				080E96DDFE201D6D7F000001 /* Classes */,
+				29B97315FDCFA39411CA2CEA /* Other Sources */,
+				29B97317FDCFA39411CA2CEA /* Resources */,
+				29B97323FDCFA39411CA2CEA /* Frameworks */,
+				19C28FACFE9D520D11CA2CBB /* Products */,
+			);
+			name = StatusMenuApp;
+			sourceTree = "<group>";
+		};
+		29B97315FDCFA39411CA2CEA /* Other Sources */ = {
+			isa = PBXGroup;
+			children = (
+				B474305812F8822C00566B59 /* Preferences.xib */,
+				256AC3F00F4B6AF500CF3369 /* PawPrints_Prefix.pch */,
+				29B97316FDCFA39411CA2CEA /* main.m */,
+			);
+			name = "Other Sources";
+			sourceTree = "<group>";
+		};
+		29B97317FDCFA39411CA2CEA /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				B4A2E23F13D61FE9002A8678 /* dsa_pub.pem */,
+				B4ED25BD13D78895007E7E65 /* buildnumber.xcconfig */,
+				B42D740713022757006A7882 /* Preferences.xib */,
+				B4DE342D130F2793005DCDA6 /* FavoritePrinter.png */,
+				B4DE33F9130F263A005DCDA6 /* General.png */,
+				B4DE33FA130F263A005DCDA6 /* Updates.tiff */,
+				84F9701012EEAE1E009B07E4 /* Printers.plist */,
+				B47F278013CF8902007CB68D /* PawPrints.icns */,
+				B4F7CA4412EE2FBB001D1F59 /* printer-white.png */,
+				B4F7C8E412EE2816001D1F59 /* printer.png */,
+				8D1107310486CEB800E47090 /* PawPrints-Info.plist */,
+				089C165CFE840E0CC02AAC07 /* InfoPlist.strings */,
+				1DDD58140DA1D0A300B32029 /* MainMenu.xib */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
+		29B97323FDCFA39411CA2CEA /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				B47F277713CF8484007CB68D /* Sparkle.framework */,
+				1058C7A0FEA54F0111CA2CBB /* Linked Frameworks */,
+				1058C7A2FEA54F0111CA2CBB /* Other Frameworks */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		B42D72EA1301F538006A7882 /* Preferences */ = {
+			isa = PBXGroup;
+			children = (
+				B4DE33F5130F2023005DCDA6 /* DBPrefsWindowController.h */,
+				B4DE33F6130F2023005DCDA6 /* DBPrefsWindowController.m */,
+				B42D706D1300479C006A7882 /* PreferenceController.h */,
+				B42D706E1300479C006A7882 /* PreferenceController.m */,
+				B4EE96E71316D07F00E5E4AD /* PMLoginItemController.h */,
+				B4EE96E81316D07F00E5E4AD /* PMLoginItemController.m */,
+			);
+			name = Preferences;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8D1107260486CEB800E47090 /* PawPrints */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "PawPrints" */;
+			buildPhases = (
+				8D1107290486CEB800E47090 /* Resources */,
+				8D11072C0486CEB800E47090 /* Sources */,
+				8D11072E0486CEB800E47090 /* Frameworks */,
+				84BB3D3312EE8285008A8E6D /* CopyFiles */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = PawPrints;
+			productInstallPath = "$(HOME)/Applications";
+			productName = StatusMenuApp;
+			productReference = 8D1107320486CEB800E47090 /* PawPrints.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		29B97313FDCFA39411CA2CEA /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0410;
+				ORGANIZATIONNAME = "Baylor University";
+			};
+			buildConfigurationList = C01FCF4E08A954540054247B /* Build configuration list for PBXProject "PawPrints" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 1;
+			knownRegions = (
+				English,
+				Japanese,
+				French,
+				German,
+			);
+			mainGroup = 29B97314FDCFA39411CA2CEA /* StatusMenuApp */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8D1107260486CEB800E47090 /* PawPrints */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8D1107290486CEB800E47090 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072B0486CEB800E47090 /* InfoPlist.strings in Resources */,
+				1DDD58160DA1D0A300B32029 /* MainMenu.xib in Resources */,
+				B4F7C8E512EE2816001D1F59 /* printer.png in Resources */,
+				B4F7CA4512EE2FBB001D1F59 /* printer-white.png in Resources */,
+				84F9701112EEAE1E009B07E4 /* Printers.plist in Resources */,
+				B474305912F8822C00566B59 /* Preferences.xib in Resources */,
+				B4DE33FB130F263A005DCDA6 /* General.png in Resources */,
+				B4DE33FC130F263A005DCDA6 /* Updates.tiff in Resources */,
+				B4DE342E130F2793005DCDA6 /* FavoritePrinter.png in Resources */,
+				B47F278113CF8902007CB68D /* PawPrints.icns in Resources */,
+				B4A2E24013D61FE9002A8678 /* dsa_pub.pem in Resources */,
+				B4ED25BE13D78895007E7E65 /* buildnumber.xcconfig in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8D11072C0486CEB800E47090 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8D11072D0486CEB800E47090 /* main.m in Sources */,
+				256AC3DA0F4B6AC300CF3369 /* PawPrintsAppDelegate.m in Sources */,
+				84F96FC812EEA14F009B07E4 /* Printer.m in Sources */,
+				B4EFE8C512EF6E9800800D1B /* PrinterController.m in Sources */,
+				B42D706F1300479C006A7882 /* PreferenceController.m in Sources */,
+				B42D715713009BFD006A7882 /* PrinterData.m in Sources */,
+				B4DE33F7130F2023005DCDA6 /* DBPrefsWindowController.m in Sources */,
+				B4EE96E91316D07F00E5E4AD /* PMLoginItemController.m in Sources */,
+				B4EE97BE1316E98200E5E4AD /* PMConstants.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		089C165CFE840E0CC02AAC07 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				089C165DFE840E0CC02AAC07 /* English */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		1DDD58140DA1D0A300B32029 /* MainMenu.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				1DDD58150DA1D0A300B32029 /* English */,
+			);
+			name = MainMenu.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		C01FCF4B08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B4ED25BD13D78895007E7E65 /* buildnumber.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+					"\"$(SRCROOT)/External Dependencies\"",
+				);
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_OBJC_GC = unsupported;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = PawPrints_Prefix.pch;
+				INFOPLIST_FILE = "PawPrints-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = PawPrints;
+			};
+			name = Debug;
+		};
+		C01FCF4C08A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B4ED25BD13D78895007E7E65 /* buildnumber.xcconfig */;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(inherited)",
+					"\"$(SRCROOT)\"",
+					"\"$(SRCROOT)/External Dependencies\"",
+				);
+				GCC_ENABLE_OBJC_GC = unsupported;
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = PawPrints_Prefix.pch;
+				INFOPLIST_FILE = "PawPrints-Info.plist";
+				INSTALL_PATH = "$(HOME)/Applications";
+				PRODUCT_NAME = PawPrints;
+			};
+			name = Release;
+		};
+		C01FCF4F08A954540054247B /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B4ED25BD13D78895007E7E65 /* buildnumber.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = macosx10.7;
+			};
+			name = Debug;
+		};
+		C01FCF5008A954540054247B /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = B4ED25BD13D78895007E7E65 /* buildnumber.xcconfig */;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_64_BIT)";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MACOSX_DEPLOYMENT_TARGET = 10.6;
+				SDKROOT = macosx10.7;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		C01FCF4A08A954540054247B /* Build configuration list for PBXNativeTarget "PawPrints" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4B08A954540054247B /* Debug */,
+				C01FCF4C08A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		C01FCF4E08A954540054247B /* Build configuration list for PBXProject "PawPrints" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				C01FCF4F08A954540054247B /* Debug */,
+				C01FCF5008A954540054247B /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 29B97313FDCFA39411CA2CEA /* Project object */;
+}

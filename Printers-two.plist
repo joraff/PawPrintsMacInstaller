@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Moody Information Commons</key>
+	<dict>
+		<key>location</key>
+		<string>&quot;Moody Library 2nd Floor</string>
+		<key>queueName</key>
+		<string>Moody2ndFloorIC</string>
+		<key>lpURI</key>
+		<string>lpd://pawprints.baylor.edu/Moody2ndFloorIC</string>
+		<key>displayName</key>
+		<string>Moody Information Commons</string>
+	</dict>
+	<key>Moody Study Commons</key>
+	<dict>
+		<key>location</key>
+		<string>Moody Library Garden (ground) Level</string>
+		<key>queueName</key>
+		<string>MoodyLab</string>
+		<key>lpURI</key>
+		<string>lpd://pawprints.baylor.edu/MoodyLab</string>
+		<key>displayName</key>
+		<string>Moody Study Commons</string>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,1128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+<key>Academic Records</key>
+  <dict>
+    <key>locationName</key>
+    <string>Robinson Tower 3rd Floor</string>
+    <key>queueName</key>
+    <string>RT3rdRecords</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/RT3rdRecords</string>
+    <key>displayName</key>
+    <string>Academic Records</string>
+  </dict>
+<key>AFROTC</key>
+  <dict>
+    <key>locationName</key>
+    <string>AFROTC Building</string>
+    <key>queueName</key>
+    <string>AFROTC</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/AFROTC</string>
+    <key>displayName</key>
+    <string>AFROTC</string>
+  </dict>
+<key>AFSA Color</key>
+  <dict>
+    <key>locationName</key>
+    <string>Mars Mclean Science Building Room 130</string>
+    <key>queueName</key>
+    <string>AFSA130-Color</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/AFSA130-Color</string>
+    <key>displayName</key>
+    <string>AFSA Color</string>
+  </dict>
+<key>AFSA</key>
+  <dict>
+    <key>locationName</key>
+    <string>Mars Mclean Science Building Room 130</string>
+    <key>queueName</key>
+    <string>AFSA130</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/AFSA130</string>
+    <key>displayName</key>
+    <string>AFSA</string>
+  </dict>
+<key>Alexander</key>
+  <dict>
+    <key>locationName</key>
+    <string>Alexander Residence Hall Front Desk</string>
+    <key>queueName</key>
+    <string>Alexander</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Alexander</string>
+    <key>displayName</key>
+    <string>Alexander</string>
+  </dict>
+<key>Allen</key>
+  <dict>
+    <key>locationName</key>
+    <string>Allen Residence Hall Front Desk</string>
+    <key>queueName</key>
+    <string>Allen</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Allen</string>
+    <key>displayName</key>
+    <string>Allen</string>
+  </dict>
+<key>Armstrong Browning Lib</key>
+  <dict>
+    <key>locationName</key>
+    <string>Armstrong Browning Library</string>
+    <key>queueName</key>
+    <string>ABL</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/ABL</string>
+    <key>displayName</key>
+    <string>Armstrong Browning Lib</string>
+  </dict>
+<key>Below Scholars Room</key>
+  <dict>
+    <key>locationName</key>
+    <string>Armstrong Browning Library</string>
+    <key>queueName</key>
+    <string>ABLBelewScholarsRoom</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/ABLBelewScholarsRoom</string>
+    <key>displayName</key>
+    <string>Below Scholars Room</string>
+  </dict>
+<key>Bill Daniel SUB</key>
+  <dict>
+    <key>locationName</key>
+    <string>Bill Daniel Student Union Building</string>
+    <key>queueName</key>
+    <string>BDSCDen</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/BDSCDen</string>
+    <key>displayName</key>
+    <string>Bill Daniel SUB</string>
+  </dict>
+<key>BOBO Lounge</key>
+  <dict>
+    <key>locationName</key>
+    <string>BOBO Baptist Student Center</string>
+    <key>queueName</key>
+    <string>BOBOLounge</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/BOBOLounge</string>
+    <key>displayName</key>
+    <string>BOBO Lounge</string>
+  </dict>
+<key>Brooks College</key>
+  <dict>
+    <key>locationName</key>
+    <string>Brooks College Front Desk</string>
+    <key>queueName</key>
+    <string>BrooksCollege</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/BrooksCollege</string>
+    <key>displayName</key>
+    <string>Brooks College</string>
+  </dict>
+<key>Brooks Flats</key>
+  <dict>
+    <key>locationName</key>
+    <string>Brooks Flats Front Desk</string>
+    <key>queueName</key>
+    <string>BrooksFlats</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/BrooksFlats</string>
+    <key>displayName</key>
+    <string>Brooks Flats</string>
+  </dict>
+<key>BSB Atrium (Hall B)</key>
+  <dict>
+    <key>locationName</key>
+    <string>BSB Atrium</string>
+    <key>queueName</key>
+    <string>BSBAtriumHallB</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/BSBAtriumHallB</string>
+    <key>displayName</key>
+    <string>BSB Atrium (Hall B)</string>
+  </dict>
+<key>BSB Atrium (Hall D)</key>
+  <dict>
+    <key>locationName</key>
+    <string>BSB Atrium</string>
+    <key>queueName</key>
+    <string>BSBAtriumHallD</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/BSBAtriumHallD</string>
+    <key>displayName</key>
+    <string>BSB Atrium (Hall D)</string>
+  </dict>
+<key>Business Accounting C209</key>
+  <dict>
+    <key>locationName</key>
+    <string>Cashion Room 209</string>
+    <key>queueName</key>
+    <string>Business-Accounting-C209</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Business-Accounting-C209</string>
+    <key>displayName</key>
+    <string>Business Accounting C209</string>
+  </dict>
+<key>Business ATLab </key>
+  <dict>
+    <key>locationName</key>
+    <string>Cashion Room 200. Advanced Technology Lab</string>
+    <key>queueName</key>
+    <string>Business-ATLab</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Business-ATLab</string>
+    <key>displayName</key>
+    <string>Business ATLab </string>
+  </dict>
+<key>Business ATLab Color</key>
+  <dict>
+    <key>locationName</key>
+    <string>Cashion Room 200. Advanced Technology Lab</string>
+    <key>queueName</key>
+    <string>Business-ATLab-Color</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Business-ATLab-Color</string>
+    <key>displayName</key>
+    <string>Business ATLab Color</string>
+  </dict>
+<key>Business C404</key>
+  <dict>
+    <key>locationName</key>
+    <string>Cashion Room 404</string>
+    <key>queueName</key>
+    <string>Business-C404</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Business-C404</string>
+    <key>displayName</key>
+    <string>Business C404</string>
+  </dict>
+<key>Business Financial Markets</key>
+  <dict>
+    <key>locationName</key>
+    <string>Cashion 1st Floor</string>
+    <key>queueName</key>
+    <string>Business-Financial-Markets</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Business-Financial-Markets</string>
+    <key>displayName</key>
+    <string>Business Financial Markets</string>
+  </dict>
+<key>Business Grad Breakout</key>
+  <dict>
+    <key>locationName</key>
+    <string></string>
+    <key>queueName</key>
+    <string>Business-Grad-Breakout</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Business-Grad-Breakout</string>
+    <key>displayName</key>
+    <string>Business Grad Breakout</string>
+  </dict>
+<key>Business Grad Color</key>
+  <dict>
+    <key>locationName</key>
+    <string></string>
+    <key>queueName</key>
+    <string>Business-Grad-Color</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Business-Grad-Color</string>
+    <key>displayName</key>
+    <string>Business Grad Color</string>
+  </dict>
+<key>Business Grad Lounge</key>
+  <dict>
+    <key>locationName</key>
+    <string></string>
+    <key>queueName</key>
+    <string>Business-Grad-Lounge</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Business-Grad-Lounge</string>
+    <key>displayName</key>
+    <string>Business Grad Lounge</string>
+  </dict>
+<key>Business ISY C101</key>
+  <dict>
+    <key>locationName</key>
+    <string>Cashion Room 101</string>
+    <key>queueName</key>
+    <string>Business-ISY-C101</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Business-ISY-C101</string>
+    <key>displayName</key>
+    <string>Business ISY C101</string>
+  </dict>
+<key>Business Lobby</key>
+  <dict>
+    <key>locationName</key>
+    <string>Hankamer/Cashion Lobby</string>
+    <key>queueName</key>
+    <string>Business-Lobby</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Business-Lobby</string>
+    <key>displayName</key>
+    <string>Business Lobby</string>
+  </dict>
+<key>Business RealEstate C106</key>
+  <dict>
+    <key>locationName</key>
+    <string>Cashion Room 106</string>
+    <key>queueName</key>
+    <string>Business-Real-Estate-C106</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Business-Real-Estate-C106</string>
+    <key>displayName</key>
+    <string>Business RealEstate C106</string>
+  </dict>
+<key>Business Writing C401</key>
+  <dict>
+    <key>locationName</key>
+    <string>Cashion Room 401</string>
+    <key>queueName</key>
+    <string>Business-Writing-C401</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Business-Writing-C401</string>
+    <key>displayName</key>
+    <string>Business Writing C401</string>
+  </dict>
+<key>Carroll Science G09</key>
+  <dict>
+    <key>locationName</key>
+    <string>Carroll Science Ground-level Room 09</string>
+    <key>queueName</key>
+    <string>CarrollScienceG09</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/CarrollScienceG09</string>
+    <key>displayName</key>
+    <string>Carroll Science G09</string>
+  </dict>
+<key>Castellaw 210</key>
+  <dict>
+    <key>locationName</key>
+    <string>Castellaw Room 210</string>
+    <key>queueName</key>
+    <string>Castellaw210</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Castellaw210</string>
+    <key>displayName</key>
+    <string>Castellaw 210</string>
+  </dict>
+<key>Castellaw 241</key>
+  <dict>
+    <key>locationName</key>
+    <string>Castellaw Room 241</string>
+    <key>queueName</key>
+    <string>Castellaw241</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Castellaw241</string>
+    <key>displayName</key>
+    <string>Castellaw 241</string>
+  </dict>
+<key>Collins</key>
+  <dict>
+    <key>locationName</key>
+    <string>Collins Residence Hall Front Desk</string>
+    <key>queueName</key>
+    <string>Collins</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Collins</string>
+    <key>displayName</key>
+    <string>Collins</string>
+  </dict>
+<key>Dawson</key>
+  <dict>
+    <key>locationName</key>
+    <string>Dawson Residence Hall Front Desk</string>
+    <key>queueName</key>
+    <string>Dawson</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Dawson</string>
+    <key>displayName</key>
+    <string>Dawson</string>
+  </dict>
+<key>Draper 200</key>
+  <dict>
+    <key>locationName</key>
+    <string>Draper 200 (Education)</string>
+    <key>queueName</key>
+    <string>Draper200</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Draper200</string>
+    <key>displayName</key>
+    <string>Draper 200</string>
+  </dict>
+<key>Draper 312</key>
+  <dict>
+    <key>locationName</key>
+    <string>Draper 312 (Political Science)</string>
+    <key>queueName</key>
+    <string>Draper312</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Draper312</string>
+    <key>displayName</key>
+    <string>Draper 312</string>
+  </dict>
+<key>Environmental Studies 118</key>
+  <dict>
+    <key>locationName</key>
+    <string>Goebel Room 118</string>
+    <key>queueName</key>
+    <string>EnvironmentalStudies118</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/EnvironmentalStudies118</string>
+    <key>displayName</key>
+    <string>Environmental Studies 118</string>
+  </dict>
+<key>Fashion Design</key>
+  <dict>
+    <key>locationName</key>
+    <string>For fashion design majors ONLY</string>
+    <key>queueName</key>
+    <string>FashionDesignColor</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/FashionDesignColor</string>
+    <key>displayName</key>
+    <string>Fashion Design</string>
+  </dict>
+<key>Geology E418</key>
+  <dict>
+    <key>locationName</key>
+    <string>BSB Room E.418</string>
+    <key>queueName</key>
+    <string>GeologyE418</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/GeologyE418</string>
+    <key>displayName</key>
+    <string>Geology E418</string>
+  </dict>
+<key>Heritage</key>
+  <dict>
+    <key>locationName</key>
+    <string>Heritage Residence Hall Front Desk (North Village)</string>
+    <key>queueName</key>
+    <string>Heritage</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Heritage</string>
+    <key>displayName</key>
+    <string>Heritage</string>
+  </dict>
+<key>Interior Design Color</key>
+  <dict>
+    <key>locationName</key>
+    <string>For Interior Design majors ONLY</string>
+    <key>queueName</key>
+    <string>InteriorDesignColor</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/InteriorDesignColor</string>
+    <key>displayName</key>
+    <string>Interior Design Color</string>
+  </dict>
+<key>Interior Design</key>
+  <dict>
+    <key>locationName</key>
+    <string>For Interior Design majors ONLY</string>
+    <key>queueName</key>
+    <string>InteriorDesignBW</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/InteriorDesignBW</string>
+    <key>displayName</key>
+    <string>Interior Design</string>
+  </dict>
+<key>Jones 105</key>
+  <dict>
+    <key>locationName</key>
+    <string>Jones Library Room 105 (by stairs)</string>
+    <key>queueName</key>
+    <string>Jones105</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Jones105</string>
+    <key>displayName</key>
+    <string>Jones 105</string>
+  </dict>
+<key>Jones 1st Floor</key>
+  <dict>
+    <key>locationName</key>
+    <string>Jones Library First Floor</string>
+    <key>queueName</key>
+    <string>1stFloorJones</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/1stFloorJones</string>
+    <key>displayName</key>
+    <string>Jones 1st Floor</string>
+  </dict>
+<key>Jones 1st Floor Color</key>
+  <dict>
+    <key>locationName</key>
+    <string>Jones Library First Floor</string>
+    <key>queueName</key>
+    <string>1stFloorJonesColor</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/1stFloorJonesColor</string>
+    <key>displayName</key>
+    <string>Jones 1st Floor Color</string>
+  </dict>
+<key>Jones 2nd</key>
+  <dict>
+    <key>locationName</key>
+    <string>Jones Library Second Floor</string>
+    <key>queueName</key>
+    <string>Jones2nd</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Jones2nd</string>
+    <key>displayName</key>
+    <string>Jones 2nd</string>
+  </dict>
+<key>Kokernot</key>
+  <dict>
+    <key>locationName</key>
+    <string>Kokernot Residence Hall Front Desk</string>
+    <key>queueName</key>
+    <string>Kokernot</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Kokernot</string>
+    <key>displayName</key>
+    <string>Kokernot</string>
+  </dict>
+<key>LAC Draper 305</key>
+  <dict>
+    <key>locationName</key>
+    <string>Draper Room 305 (LAC)</string>
+    <key>queueName</key>
+    <string>LACDraper305</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/LACDraper305</string>
+    <key>displayName</key>
+    <string>LAC Draper 305</string>
+  </dict>
+<key>LAC Draper 306</key>
+  <dict>
+    <key>locationName</key>
+    <string>Draper Room 306 (LAC)</string>
+    <key>queueName</key>
+    <string>LACDraper306</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/LACDraper306</string>
+    <key>displayName</key>
+    <string>LAC Draper 306</string>
+  </dict>
+<key>Law-CLab8</key>
+  <dict>
+    <key>locationName</key>
+    <string></string>
+    <key>queueName</key>
+    <string>Law-CLab8</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Law-CLab8</string>
+    <key>displayName</key>
+    <string>Law-CLab8</string>
+  </dict>
+<key>Law-NorthLab3</key>
+  <dict>
+    <key>locationName</key>
+    <string></string>
+    <key>queueName</key>
+    <string>Law-NorthLab3</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Law-NorthLab3</string>
+    <key>displayName</key>
+    <string>Law-NorthLab3</string>
+  </dict>
+<key>Law-NorthLab4</key>
+  <dict>
+    <key>locationName</key>
+    <string></string>
+    <key>queueName</key>
+    <string>Law-NorthLab4</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Law-NorthLab4</string>
+    <key>displayName</key>
+    <string>Law-NorthLab4</string>
+  </dict>
+<key>Law-SouthLab5</key>
+  <dict>
+    <key>locationName</key>
+    <string></string>
+    <key>queueName</key>
+    <string>Law-SouthLab5</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Law-SouthLab5</string>
+    <key>displayName</key>
+    <string>Law-SouthLab5</string>
+  </dict>
+<key>Law-SouthLab6</key>
+  <dict>
+    <key>locationName</key>
+    <string></string>
+    <key>queueName</key>
+    <string>Law-SouthLab6</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Law-SouthLab6</string>
+    <key>displayName</key>
+    <string>Law-SouthLab6</string>
+  </dict>
+<key>Law-StuCircPrinter</key>
+  <dict>
+    <key>locationName</key>
+    <string></string>
+    <key>queueName</key>
+    <string>Law-StuCircPrinter</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Law-StuCircPrinter</string>
+    <key>displayName</key>
+    <string>Law-StuCircPrinter</string>
+  </dict>
+<key>Law-StuLounge1</key>
+  <dict>
+    <key>locationName</key>
+    <string></string>
+    <key>queueName</key>
+    <string>Law-StuLounge1</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Law-StuLounge1</string>
+    <key>displayName</key>
+    <string>Law-StuLounge1</string>
+  </dict>
+<key>LRC</key>
+  <dict>
+    <key>locationName</key>
+    <string>Draper 208</string>
+    <key>queueName</key>
+    <string>LRC</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/LRC</string>
+    <key>displayName</key>
+    <string>LRC</string>
+  </dict>
+<key>LRC Color</key>
+  <dict>
+    <key>locationName</key>
+    <string>Draper 208</string>
+    <key>queueName</key>
+    <string>LRCColor</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/LRCColor</string>
+    <key>displayName</key>
+    <string>LRC Color</string>
+  </dict>
+<key>Martin</key>
+  <dict>
+    <key>locationName</key>
+    <string>Martin Residence Hall Front Desk</string>
+    <key>queueName</key>
+    <string>Martin</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Martin</string>
+    <key>displayName</key>
+    <string>Martin</string>
+  </dict>
+<key>Math Lab</key>
+  <dict>
+    <key>locationName</key>
+    <string>Sid Rich room 203</string>
+    <key>queueName</key>
+    <string>MathLab-SR203</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/MathLab-SR203</string>
+    <key>displayName</key>
+    <string>Math Lab</string>
+  </dict>
+<key>Math Lab</key>
+  <dict>
+    <key>locationName</key>
+    <string>Sid Rich room 203</string>
+    <key>queueName</key>
+    <string>MathLab-SR203-Color</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/MathLab-SR203-Color</string>
+    <key>displayName</key>
+    <string>Math Lab</string>
+  </dict>
+<key>Memorial</key>
+  <dict>
+    <key>locationName</key>
+    <string>Memorial Residence Hall Front Desk</string>
+    <key>queueName</key>
+    <string>Memorial</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Memorial</string>
+    <key>displayName</key>
+    <string>Memorial</string>
+  </dict>
+<key>MERC Lab</key>
+  <dict>
+    <key>locationName</key>
+    <string>Waco Hall East</string>
+    <key>queueName</key>
+    <string>MERCWacoHallEast</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/MERCWacoHallEast</string>
+    <key>displayName</key>
+    <string>MERC Lab</string>
+  </dict>
+<key>META Lab</key>
+  <dict>
+    <key>locationName</key>
+    <string>Moody Library 3rd Floor</string>
+    <key>queueName</key>
+    <string>METALab</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/METALab</string>
+    <key>displayName</key>
+    <string>META Lab</string>
+  </dict>
+<key>Moody 1st Floor</key>
+  <dict>
+    <key>locationName</key>
+    <string>Moody Library 1st Floor</string>
+    <key>queueName</key>
+    <string>Moody1stFloor</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Moody1stFloor</string>
+    <key>displayName</key>
+    <string>Moody 1st Floor</string>
+  </dict>
+<key>Moody 2nd Floor</key>
+  <dict>
+    <key>locationName</key>
+    <string>Moody Library 2nd Floor</string>
+    <key>queueName</key>
+    <string>Moody2ndFloor</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Moody2ndFloor</string>
+    <key>displayName</key>
+    <string>Moody 2nd Floor</string>
+  </dict>
+<key>Moody 3rd Floor</key>
+  <dict>
+    <key>locationName</key>
+    <string>Moody Library 3rd Floor</string>
+    <key>queueName</key>
+    <string>Moody3rdFloor</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Moody3rdFloor</string>
+    <key>displayName</key>
+    <string>Moody 3rd Floor</string>
+  </dict>
+<key>Moody Crouch Library</key>
+  <dict>
+    <key>locationName</key>
+    <string>Moody Library 3rd Floor</string>
+    <key>queueName</key>
+    <string>Moody3rdCrouchDesk</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Moody3rdCrouchDesk</string>
+    <key>displayName</key>
+    <string>Moody Crouch Library</string>
+  </dict>
+<key>Moody Exit</key>
+  <dict>
+    <key>locationName</key>
+    <string>Moody Library 1st Floor</string>
+    <key>queueName</key>
+    <string>MoodyExit</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/MoodyExit</string>
+    <key>displayName</key>
+    <string>Moody Exit</string>
+  </dict>
+<key>Moody Information Commons</key>
+  <dict>
+    <key>locationName</key>
+    <string>Moody Library 2nd Floor</string>
+    <key>queueName</key>
+    <string>Moody2ndFloorIC</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Moody2ndFloorIC</string>
+    <key>displayName</key>
+    <string>Moody Information Commons</string>
+  </dict>
+<key>Moody Study Commons</key>
+  <dict>
+    <key>locationName</key>
+    <string>Moody Library Garden (ground) Level</string>
+    <key>queueName</key>
+    <string>MoodyLab</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/MoodyLab</string>
+    <key>displayName</key>
+    <string>Moody Study Commons</string>
+  </dict>
+<key>Moody Study Commons Color</key>
+  <dict>
+    <key>locationName</key>
+    <string>Moody Library Garden (ground) Level</string>
+    <key>queueName</key>
+    <string>MoodyLabColor</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/MoodyLabColor</string>
+    <key>displayName</key>
+    <string>Moody Study Commons Color</string>
+  </dict>
+<key>Museum Studies</key>
+  <dict>
+    <key>locationName</key>
+    <string>Mayborn Museum</string>
+    <key>queueName</key>
+    <string>MuseumStudies</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/MuseumStudies</string>
+    <key>displayName</key>
+    <string>Museum Studies</string>
+  </dict>
+<key>NorthRussell</key>
+  <dict>
+    <key>locationName</key>
+    <string>North Russell Residence Hall Front Desk</string>
+    <key>queueName</key>
+    <string>NorthRussell</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/NorthRussell</string>
+    <key>displayName</key>
+    <string>NorthRussell</string>
+  </dict>
+<key>Nursing LRC - Desk</key>
+  <dict>
+    <key>locationName</key>
+    <string>Louise Herrington School of Nursing</string>
+    <key>queueName</key>
+    <string>Nursing-LRC-Desk</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Nursing-LRC-Desk</string>
+    <key>displayName</key>
+    <string>Nursing LRC - Desk</string>
+  </dict>
+<key>Nursing LRC - Lab</key>
+  <dict>
+    <key>locationName</key>
+    <string>Louise Herrington School of Nursing</string>
+    <key>queueName</key>
+    <string>Nursing-LRC-Lab</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Nursing-LRC-Lab</string>
+    <key>displayName</key>
+    <string>Nursing LRC - Lab</string>
+  </dict>
+<key>Nursing LRC - Oce</key>
+  <dict>
+    <key>locationName</key>
+    <string>Louise Herrington School of Nursing</string>
+    <key>queueName</key>
+    <string>Nursing-LRC-OCE</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Nursing-LRC-OCE</string>
+    <key>displayName</key>
+    <string>Nursing LRC - Oce</string>
+  </dict>
+<key>NVCC 4114</key>
+  <dict>
+    <key>locationName</key>
+    <string>North Village Community Center Room 4114</string>
+    <key>queueName</key>
+    <string>NVCC4114</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/NVCC4114</string>
+    <key>displayName</key>
+    <string>NVCC 4114</string>
+  </dict>
+<key>OALA</key>
+  <dict>
+    <key>locationName</key>
+    <string>Sid Rich North Wing</string>
+    <key>queueName</key>
+    <string>OALA</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/OALA</string>
+    <key>displayName</key>
+    <string>OALA</string>
+  </dict>
+<key>Oral History</key>
+  <dict>
+    <key>locationName</key>
+    <string>Oral History Department</string>
+    <key>queueName</key>
+    <string>OralHistory</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/OralHistory</string>
+    <key>displayName</key>
+    <string>Oral History</string>
+  </dict>
+<key>Panhellenic Lab</key>
+  <dict>
+    <key>locationName</key>
+    <string>Stacy Riddle Forum</string>
+    <key>queueName</key>
+    <string>Panhellenic</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Panhellenic</string>
+    <key>displayName</key>
+    <string>Panhellenic Lab</string>
+  </dict>
+<key>Penland</key>
+  <dict>
+    <key>locationName</key>
+    <string>Penland Residence Hall Front Desk</string>
+    <key>queueName</key>
+    <string>Penland</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Penland</string>
+    <key>displayName</key>
+    <string>Penland</string>
+  </dict>
+<key>Physics E340</key>
+  <dict>
+    <key>locationName</key>
+    <string>BSB Room E.340</string>
+    <key>queueName</key>
+    <string>PhysicsE340</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/PhysicsE340</string>
+    <key>displayName</key>
+    <string>Physics E340</string>
+  </dict>
+<key>Poage Library</key>
+  <dict>
+    <key>locationName</key>
+    <string>Poage Library</string>
+    <key>queueName</key>
+    <string>PoageLibraryBCPM</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/PoageLibraryBCPM</string>
+    <key>displayName</key>
+    <string>Poage Library</string>
+  </dict>
+<key>Prehealth A</key>
+  <dict>
+    <key>locationName</key>
+    <string>BSB Room C.108</string>
+    <key>queueName</key>
+    <string>PreHealthA</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/PreHealthA</string>
+    <key>displayName</key>
+    <string>Prehealth A</string>
+  </dict>
+<key>Prehealth B</key>
+  <dict>
+    <key>locationName</key>
+    <string>BSB Room C.108</string>
+    <key>queueName</key>
+    <string>PreHealthB</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/PreHealthB</string>
+    <key>displayName</key>
+    <string>Prehealth B</string>
+  </dict>
+<key>Rogers 212</key>
+  <dict>
+    <key>locationName</key>
+    <string>Rogers Room 212</string>
+    <key>queueName</key>
+    <string>Rogers212</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Rogers212</string>
+    <key>displayName</key>
+    <string>Rogers 212</string>
+  </dict>
+<key>Rogers Lounge</key>
+  <dict>
+    <key>locationName</key>
+    <string>Rogers Lounge</string>
+    <key>queueName</key>
+    <string>RogersLounge</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/RogersLounge</string>
+    <key>displayName</key>
+    <string>Rogers Lounge</string>
+  </dict>
+<key>South Russell</key>
+  <dict>
+    <key>locationName</key>
+    <string>South Russell Residence Hall Front Desk</string>
+    <key>queueName</key>
+    <string>SouthRussell</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/SouthRussell</string>
+    <key>displayName</key>
+    <string>South Russell</string>
+  </dict>
+<key>Statistics MM226</key>
+  <dict>
+    <key>locationName</key>
+    <string>Mars Mclean Science Building Room 226</string>
+    <key>queueName</key>
+    <string>StatisticsMM226</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/StatisticsMM226</string>
+    <key>displayName</key>
+    <string>Statistics MM226</string>
+  </dict>
+<key>Statistics MM342</key>
+  <dict>
+    <key>locationName</key>
+    <string>Mars Mclean Science Building Room 342</string>
+    <key>queueName</key>
+    <string>StatisticsMM342</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/StatisticsMM342</string>
+    <key>displayName</key>
+    <string>Statistics MM342</string>
+  </dict>
+<key>Student Athlete Services</key>
+  <dict>
+    <key>locationName</key>
+    <string>Simpson Athletic Complex</string>
+    <key>queueName</key>
+    <string>SAS</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/SAS</string>
+    <key>displayName</key>
+    <string>Student Athlete Services</string>
+  </dict>
+<key>Social Work</key>
+  <dict>
+    <key>locationName</key>
+    <string>Social Work</string>
+    <key>queueName</key>
+    <string>SocialWork-WF110</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/SocialWork-WF110</string>
+    <key>displayName</key>
+    <string>Social Work</string>
+  </dict>
+<key>Success Center Lobby</key>
+  <dict>
+    <key>locationName</key>
+    <string>Sid Rich</string>
+    <key>queueName</key>
+    <string>SuccessCenterLobby</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/SuccessCenterLobby</string>
+    <key>displayName</key>
+    <string>Success Center Lobby</string>
+  </dict>
+<key>Success Center Room 009</key>
+  <dict>
+    <key>locationName</key>
+    <string>Sid Rich</string>
+    <key>queueName</key>
+    <string>SuccessCenterRoom009</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/SuccessCenterRoom009</string>
+    <key>displayName</key>
+    <string>Success Center Room 009</string>
+  </dict>
+<key>Texana</key>
+  <dict>
+    <key>locationName</key>
+    <string>Texana Residence Hall Front Desk (North Village)</string>
+    <key>queueName</key>
+    <string>Texana</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Texana</string>
+    <key>displayName</key>
+    <string>Texana</string>
+  </dict>
+<key>Texas Collection</key>
+  <dict>
+    <key>locationName</key>
+    <string>Carroll Library</string>
+    <key>queueName</key>
+    <string>TexasCollection</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/TexasCollection</string>
+    <key>displayName</key>
+    <string>Texas Collection</string>
+  </dict>
+<key>Theatre 211</key>
+  <dict>
+    <key>locationName</key>
+    <string>Hooper Schaefer Room 211</string>
+    <key>queueName</key>
+    <string>Theatre211</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/Theatre211</string>
+    <key>displayName</key>
+    <string>Theatre 211</string>
+  </dict>
+<key>Theatre Arts Design Lab</key>
+  <dict>
+    <key>locationName</key>
+    <string>Hooper Schaefer Room 224</string>
+    <key>queueName</key>
+    <string>TheatreArtsDesign</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/TheatreArtsDesign</string>
+    <key>displayName</key>
+    <string>Theatre Arts Design Lab</string>
+  </dict>
+<key>Theatre Green Room</key>
+  <dict>
+    <key>locationName</key>
+    <string>Hooper Schaefer Green Room</string>
+    <key>queueName</key>
+    <string>TheatreGreenRoom</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/TheatreGreenRoom</string>
+    <key>displayName</key>
+    <string>Theatre Green Room</string>
+  </dict>
+<key>Tidwell B10</key>
+  <dict>
+    <key>locationName</key>
+    <string>Tidwell Basement room B10</string>
+    <key>queueName</key>
+    <string>TidwellB10</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/TidwellB10</string>
+    <key>displayName</key>
+    <string>Tidwell B10</string>
+  </dict>
+<key>Tidwell B18</key>
+  <dict>
+    <key>locationName</key>
+    <string>Tidwell Basement room B18</string>
+    <key>queueName</key>
+    <string>TidwellB18</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/TidwellB18</string>
+    <key>displayName</key>
+    <string>Tidwell B18</string>
+  </dict>
+<key>Truett Seminary 110</key>
+  <dict>
+    <key>locationName</key>
+    <string>Truett Seminary Room 110</string>
+    <key>queueName</key>
+    <string>TruettSeminary110</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/TruettSeminary110</string>
+    <key>displayName</key>
+    <string>Truett Seminary 110</string>
+  </dict>
+<key>University</key>
+  <dict>
+    <key>locationName</key>
+    <string>University Residence Hall Front Desk (North Village)</string>
+    <key>queueName</key>
+    <string>University</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/University</string>
+    <key>displayName</key>
+    <string>University</string>
+  </dict>
+<key>Writing Center</key>
+  <dict>
+    <key>locationName</key>
+    <string>Carroll Science Ground Level</string>
+    <key>queueName</key>
+    <string>WritingCenter</string>
+    <key>lpURI</key>
+    <string>lpd://pawprints.baylor.edu/WritingCenter</string>
+    <key>displayName</key>
+    <string>Writing Center</string>
+  </dict>
+</dict>
+</plist>
